@@ -1,12 +1,12 @@
-{
-  "name": "express_basic_example",
+  {
+  "name": "basic_express_example",
   "version": "1.0.0",
   "description": "익스프레스 기본 셋팅",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app"
   },
-  "author": "HJ",
+  "author": "Lee, Yonggyo",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
